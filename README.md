@@ -1,6 +1,5 @@
-## Desktop Pokémon
-These Pokémon just run around the desktop and wiggle their tails.
-
+## randomfork
+random-fork
 ## Compiling
 1. Install [AutoHotkey](https://autohotkey.com/download/), either v1.1 or v2.0
 2. Run `make.ahk` and press `Compile`
