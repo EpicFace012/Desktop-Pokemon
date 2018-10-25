@@ -232,7 +232,7 @@ compileahk(){
 	}else{
 		bin:=""
 	}
-	run "%filefield%" /in Source\main.ahk /out eevee.exe /icon Images\eevee.ico %bin%
+	run "%filefield%" /in Source\main.ahk /out dbb.exe /icon Images\eevee.ico %bin%
 	
 	exitapp
 }
