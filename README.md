@@ -1,6 +1,6 @@
-## randomfork
-random-fork
-## Compiling
+## a
+ra
+## Compilin
 1. Install [AutoHotkey](https://autohotkey.com/download/), either v1.1 or v2.0
 2. Run `make.ahk` and press `Compile`
 
